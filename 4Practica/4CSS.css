@@ -1,0 +1,13 @@
+body{
+    color: rgb(202, 136, 36);
+}
+
+.miParrafo{
+    font-style: italic;
+}
+
+p{
+    margin: 15px;
+    padding: 20px;
+    border: 1px solid rgb(0, 0, 0);
+}
